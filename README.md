@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://learning.oreilly.com/library/cover/9781098102920/250w/" alt="Black Hat Python Cover" width="180" style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
+  <img src="bash_utils//Black Hat Python2e.jpg" alt="Black Hat Python Cover" width="180" style="border-radius: 12px; box-shadow: 0 10px 20px rgba(0,0,0,0.3);">
   
   <h1 style="border-bottom: none; margin-top: 20px;">Black Hat Python Lab</h1>
   <p style="font-size: 1.2em; color: #586069;">Advanced Offensive Tooling & Automation Environment</p>
