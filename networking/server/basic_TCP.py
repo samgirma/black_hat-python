@@ -34,7 +34,7 @@ def handle_client(client_socket):
 		try:
 			request = sock.recv(1024)
 			print(f"[*] Recieved: {request.decode('utf-8')}")
-			sock.send(b'Rquest accepted,\nprocessing...')
+			sock.send(b'Request accepted,\nprocessing...\n')
 
 		except Exception as e:
 			print(f"[!] Error handling client: {e}")
