@@ -72,13 +72,15 @@ To integrate the toolkit into your global environment, add the following to your
 alias bhp='~/cyber/black_hat_python/bash_utils/run.sh'
 alias bhp-new='~/cyber/black_hat_python/bash_utils/create.sh'
 alias bhp-rm='~/cyber/black_hat_python/bash_utils/remove.sh'
+```
 
-# Operational Note
+### Operational Note
 The environment utilizes an isolated Python Virtual Environment to manage security-specific dependencies (such as scapy and impacket), ensuring the host system remains stable and clean.
 
-👨‍💻 Developer Profile
-Samuel Girma Software Engineering Student | Adama Science and Technology University (ASTU) Passionate about Cybersecurity, Data Engineering, and Scalable SaaS Architecture.
+### 👨‍💻 Developer Profile
+Samuel Girma Software Engineering Student | Adama Science and Technology University (ASTU) Passionate about Cybersecurity, Data Engineering, and Scalable SaaS Architecture.  
+[personla website](https://samgirma.app)
 
 <p align="center" style="font-size: 0.85em; color: #6a737d;">
-<i><b>Disclaimer:</b> This repository is intended strictly for educational purposes and ethical security research. Unauthorized use of these tools against systems without explicit permission is illegal.</i>
+  <i><b>Disclaimer:</b> This repository is intended strictly for educational purposes and ethical security research. Unauthorized use of these tools against systems without explicit permission is illegal.</i>
 </p>
